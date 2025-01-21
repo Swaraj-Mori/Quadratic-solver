@@ -1,4 +1,3 @@
-It is fairly easy to use.
 It can only solve for QUADRATIC EQUATIONS for ONE VARIABLE.
 Suppose equation is ax^2 + bx + c = 0, then prompt the program a, b and c as it asks.
 It will give discrimant (b^2 + 4ac), Nature of roots and ofcourse the roots.
