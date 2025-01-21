@@ -1,3 +1,4 @@
+
 def sgn(number):
     if number > 0:
         return 1
@@ -105,7 +106,7 @@ def main():
 
 while True:
     main()
-    cont = bool(input("continue? \n(yes : 1, no : 0): "))
+    cont = int(input("continue? \n(yes : 1, no : 0): "))
     if not cont:
         break
 
